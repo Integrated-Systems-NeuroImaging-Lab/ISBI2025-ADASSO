@@ -1,0 +1,59 @@
+[EEGMMIDB]
+
+[EEGMMIDB.real_left_fist]
+anno = "T1"
+runs = [3, 7, 11]
+
+[EEGMMIDB.real_right_fist]
+anno = "T2"
+runs = [3, 7, 11]
+
+[EEGMMIDB.real_both_fists]
+anno = "T1"
+runs = [5, 9, 13]
+
+[EEGMMIDB.real_both_feet]
+anno = "T1"
+runs = [5, 9, 13]
+
+[EEGMMIDB.rest_left_fist]
+anno = "T0"
+runs = [3, 7, 11]
+
+[EEGMMIDB.rest_right_fist]
+anno = "T0"
+runs = [3, 7, 11]
+
+[EEGMMIDB.rest_both_fists]
+anno = "T0"
+runs = [5, 9, 13]
+
+[EEGMMIDB.rest_both_feet]
+anno = "T0"
+runs = [5, 9, 13]
+
+[EEGMMIDB.eye_open_rest]
+anno = "T0"
+runs = [1]
+
+[EEGMMIDB.eye_close_rset]
+anno = "T0"
+runs = [2]
+
+[BCI_IV2a]
+
+[BCI_IV2a.left]
+anno = "left"
+runs = []
+
+[BCI_IV2a.right]
+anno = "right"
+runs = []
+
+[BCI_IV2a.feet]
+anno = "feet"
+runs = []
+
+[BCI_IV2a.tongue]
+anno = "tongue"
+runs = []
